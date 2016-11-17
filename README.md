@@ -3,4 +3,4 @@
 Materias produzidos durante o estudo.
 
 ## 1° - semestre
-+ [Estudos Relações Etnicas Raciais Genero](Estudos\ Relacoes\ Etnicas\ Raciais\ Genero/)
++ [Estudos Relações Etnicas Raciais Genero](https://github.com/mateuscfonseca/filosofia/tree/master/Estudos%20Relacoes%20Etnica%20Raciais%20Genero)
