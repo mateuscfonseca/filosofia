@@ -60,6 +60,6 @@ Assim como ascenção de estados de bem estar sociais, porém esses não são an
 
 Exemplos importantes dessas possiveis diferenças são: sexo, grupos etários, etinicos e linguisticos, entre categorias profissionais e entre classes e grupos de status.
 
-Essas diferenças, junto aos diferentes nações que existem, concepções politicas e religiosas, são o centro das tensões globais.
+Essas diferenças, junto aos diferentes nações que existem, concepções politicas e religiosas, são o centro de conflitos entre os diferentes grupos.
 
 A vida dos individuos na sociedade é fortemente determinada, simultaneamente, pela diferenciaçãp social (que os situa num grupo especifico) e pela desigualdade social ( que os situa em relação a distribuição de bens sociais). O primeire se refere a conformação a grupos sociais e o segundo a formação de hieraquisas sociasi.
