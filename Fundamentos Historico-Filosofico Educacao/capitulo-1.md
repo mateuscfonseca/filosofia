@@ -84,7 +84,7 @@ Este autor, que falou muito além da questão educacional, tem como preocupaçã
 Pode ser destacado de Pierre Bourdieu algumas proposições que podem contribuir na reflexão acerca da historia da educação. Como por exemplo,
 
 + **espaço social**
-  sistema, dinâmico, de posiçõe socieias, que se definem umas em relação às outras, e de acordo com o
+   sistema, dinâmico, de posiçõe socieias, que se definem umas em relação às outras, e de acordo com o  
 
 + **campo**
   são espaços sociais especificos, cada campo tem diferentes valores e regras socialmente construídos.
@@ -92,7 +92,8 @@ Pode ser destacado de Pierre Bourdieu algumas proposições que podem contribuir
 Em todo **campo** há uma luta contínua por poder e legitimidade. Essa luta ocorre prioritariamente no campo simmbólico e busca estabelecer sentidos reconhecidos socialmente, que serão fortalecidos pelo
 
 + **habitus**
-  > "disposições adiquiridas pela experiência, logo, variáveis segundo o lugar e o momento" **(Bourdieu, 2004, p. 21)**
+
+> "disposições adiquiridas pela experiência, logo, variáveis segundo o lugar e o momento" **(Bourdieu, 2004, p. 21)**
 
 O **habitus** seria então a forma de pensar os valores, as crenças, as certezas, que são construídos coletiva e individualemente, e deve ser ralcionado a localização espaço-temporal, por isso a necessidade de conhecer história para compreender esse termo.
 
