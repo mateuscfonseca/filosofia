@@ -1,5 +1,7 @@
 # historia, historiografia e historia da educação: relacoes e contribuições
 
+## Livro - [livro da disciplina](http://ava.grupouninter.com.br/tead/hyperibook/IBPEX/685php/)
+
 ## Historia e a Nova Historia
 
 *O que é História ?*

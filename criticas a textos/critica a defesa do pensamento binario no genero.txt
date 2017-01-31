@@ -1,0 +1,123 @@
+http://www.universoracionalista.org/o-pensamento-binario-e-realmente-perigoso-uma-critica-a-teoria-de-genero/
+
+O texto vai sustentar que o pensamento binário em relação a genero não é tão ruim assim.
+
+Ela começa o texto se referindo a uma critica ao pensamento binário e maniqueista.
+
+http://www.cartacapital.com.br/sociedade/e-preciso-ter-cuidado-com-o-pensamento-binario
+
+Ela aponta que o autor do referido texto faz uma confusão com os significados de maniqueísmo e binarismo.
+
+---------------------------------------------------------------
+
+“Binários são maniqueístas. A expressão originalmente refere-se a um dualismo religioso cuja doutrina, em termos simples, consiste em afirmar a existência de um conflito entre o bem e o mal, mas que passou a significar qualquer visão de mundo que o divida em poderes opostos e incompatíveis.”
+
+--
+
+'Sim, o termo maniqueísmo tem origem religiosa, mas o pensamento binário não. Binário vem da Lógica e remonta à Antiguidade Clássica. Como expus neste texto, os princípios da identidade, da não-contradição e do terceiro excluído formam a base das Leis do Pensamento.'
+
+--------------------------------------------------------------
+
+Ela se refere a outro texto em que ela discorre sobre as Leis do Pensamento, onde ela associa a logica proposicional de aristoteles.
+
+Ela prossegue afirmando a importancia desse pensamento, logica proposicional, e como ela está na base de nossas vidas diarias, no computador impera a logica booleana, que se relaciona a logica proposicional.
+
+Ela cita que existem outras lógicas, porém reduz a legitimade delas afirmando que a utilidade delas é bastante questionada. Ela indica esse link -> que na verdade é apenas um "Vide as críticas do filósofo David Lewis, por exemplo."
+Ela diz que as outras lógicas são questionadas por perderem o rigor do pensamento, fica faltando uma explicação do que seria esse rigor.
+
+Ela afirma que um dos maiores criticos do principio da não contradição é o filosofo Hegel, e que ele teria feito isso para conseguir atribuir ao pensamento religioso uma caracteristica racional. Ela relaciona tal afirmação com um link 
+
+HICKS, Stephen. Explaining Postmodernism: skepticism and socialism from Rousseau to Foucault.Scholargy Publishing: Tempe, p.48
+
+
+Ela afirma categoricamente que o binarismo é "uma forma de categorizar proposições em verdadeiras ou falsas e não simplesmente um modo de criar compartimentos limitando-se o número de possibilidades de classificação a duas categorias."
+
+Ela exemplifica que o binarismo não é sobre duas categorias, mas sobre asserverar se algo é ou não verdade. Existem diferentes categorias para classificar animais. Mas a partir do momento que ele é classificado em uma categoria ele não pode ser de duas categorias diferentes.
+
+Nessa parte ela atribui a autora que critica uma visão especifica acerca do binarismo.
+
+
+Ela depois começa a secção, petrificação do pensamento.
+
+-------------------------------------------------------------
+
+“petrificação do pensamento, que ao fixar significado em apenas duas possibilidades, desconsidera a infinita variedade que compõe a humanidade”.
+
+--
+
+Em primeiro lugar, é justamente o binarismo que possibilita a distinção entre categorias, que é a forma como organizamos o conhecimento, caso contrário, tudo faria parte de um grande todo indistinto (vemos Hegel e seu Absoluto novamente aí). Em segundo lugar, não é o binarismo que produz a petrificação do pensamento (o que estou interpretando aqui como uma espécie de dogmatismo), mas a falta de senso crítico e de honestidade intelectual daquele que se propõe a estudar algo e não assume as evidências porque estas não se encaixam no seu modelo inicial.
+
+-------------------------------------------------------------------
+
+Ela atribui a logica proposicional a forma possível de definir categorias.
+Depois ela garante que essa forma de pensamento, logica proposicional, não está relacionada a petrificação do pensamento, como argumento a autora que ela critica, o que petrifica sim o pensamento é a falta de honestidade intelectual. Ela critica a postura de não considerar evidencias quando elas confrotam seu modelo inicial.
+
+Ela volta afirmar que o binarismo não implica em apenas duas categorias, mas sim sobre se um objeto se encaixa ou não em uma categoria. Não sendo impossivel a criação de diversas categorias, quando evidencias para isso surjam.
+
+Ela depois segue para dizer que não se pode dizer que algo não pode ser X e  -X ao mesmo tempo. Ela utiliza como exemplo que um vegetal não pode ser um vegetal e um não vegetal ao mesmo tempo, ou que existe uma terceira possiblidade. 
+
+Ela tbm afirma que sem a logica proposicional não teriamos como classificar as coisas, pois todas elas seriam virtualmente a mesma coisa.
+
+Ela diz que não é lógico assumir que uma coisa que é classifica como x, possa ser x e não x ao mesmo tempo. 
+
+Ela tbm diz "na ciência", logo ela se mostra estar falando pela ciência.
+
+
+Ela segue para criticar um axioma apresentado pela autora que critica. A autora se refere a como os seres humanos tem possibilidades de categorias diversas, que não se resumiriam as categorias impostas pelo gênero.
+
+Ela pergunta que variedades de caracteristicas são essas e como a logica proposicional se contrapõe a elas.
+
+
+------------------------------------------------------------
+
+Burigo segue alegando que “a teoria de gênero, porém, compreende o binário como um construto social a ser questionado por pelo menos dois motivos: a desigualdade social, econômica e política entre mulheres e homens, e o fato de que identidades que se constituem fora do binário sejam rotineiramente compreendidas como problemáticas.”
+
+--
+
+Como a existência de duas categorias é responsável por uma hierarquia entre elas? Além disso, o segundo ponto levantado pela autora já foi aqui exaustivamente demonstrado como um equívoco: a existência de duas categorias (A e ¬A) não elimina (e nem pode) a possibilidade de B, porque B é não-A.
+
+-------------------------------------------------------------
+
+Ela questiona, e coloca isso como se fosse a contraposição de uma afirmação da autora do texto, como a definição de duas categorias traduz em hierarquia entre elas, sendo duas categorias apenas duas categorias, ou seja apenas dois conjuntos de propriedades diferentes.
+
+Ela segue afirmando que a palavra genero provoca confusão semantica por abarcar, muitas vezes, coisas distintas (coisas de categorias diferentes)
+. Ela cita que existe as seguintes dimensões
+
+Genetica
+Fisiologica - Fenotipica
+Comportamental, identitária e sexual.
+
+Ela diz que é necessario definir então os conjutos de genero. Quais as propriedades definem um genero especifico. Ela tbmm afirma que a logica proposicional não impede que dado um conjunto de propriedades, conjuntos distintos possam conter as mesmas propriedades, não na sua totalidade, mas em partes.
+
+Femea {a,b,c,d}
+Mascu {e,f,g,h,a}
+
+
+
+
+
+
+
+
+
+---------------------------------------------------------------------------
+---------------------------------------------------------------------------
+--------------------------------------------------------------------------
+
+
+-- Ela diz que dado uma categoria que descreve um conjunto de atributos F{x, y, z}, objetos dententores de atributos, O{x,a,b,t,z} poderão ter esses atributos ou não. Não existe um terceiro estado para esse objeto. Ou ele se encaixa naquele conjutno de propriedades definida pela categoria ou não. A critica da teoria de genero na verdade é dizer que a definição do conjunto de caracteristicas do ser mulher não tem uma relação deterministica com as caracterisitcas biologicas do ser. 
+
+Femea {Propensão a sentimentos x, propenção a comportamentos y}
+Macho {Propensão a sentimentos z, propenção a comportamentos w}
+
+A critica da teoria de genero é que não é possivel estabelecer essas caracteristicas a nenhum ser humano levando conta apenas suas propriedades biologicas, tendo que ser levado em conta tbm outras propriedades, como seu lguar na sociedade, as expectativas relacionadas a essa pessoa, o como a sociedade em que ela esta presente a enxerga, quais são as ideias acerca o que é ser femea ou macho presentes nessa sociedade.
+
+Ela atribui varias coisas a autora que critica, e essas atribuições formam a base de sua critica, logo criticar essas suposições pode ser um bom começo.
+
+
+
+
+
+
+
+
